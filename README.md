@@ -25,7 +25,7 @@ Aplicação web feita com React + Vite para buscar e exibir perfis públicos do 
 ### Clonar o repositório
 
 ````bash
-git clone https://github.com/seu-usuario/github-profile.git
+git clone https://github.com/MaykRhenderson/github-profile.git
 ````
 
 ### Entrar na pasta do projeto
