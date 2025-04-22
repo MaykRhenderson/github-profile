@@ -1,4 +1,4 @@
-# GitHub Profile Finder
+# GitHub Profile
 
 Aplicação web feita com React + Vite para buscar e exibir perfis públicos do GitHub, com base em um layout do Figma. O usuário pode digitar um nome de perfil e visualizar informações como nome, avatar e bio, além de mensagens de erro caso o perfil não exista.
 
@@ -25,13 +25,13 @@ Aplicação web feita com React + Vite para buscar e exibir perfis públicos do 
 ### Clonar o repositório
 
 ````bash
-git clone https://github.com/seu-usuario/github-profile-finder.git
+git clone https://github.com/seu-usuario/github-profile.git
 ````
 
 ### Entrar na pasta do projeto
 
 ````bash
-cd github-profile-finder
+cd github-profile
 ````
 
 ### Instalar dependências
