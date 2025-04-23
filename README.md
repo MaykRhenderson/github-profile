@@ -20,6 +20,10 @@ Aplicação web feita com React + Vite para buscar e exibir perfis públicos do 
 - Componente que avisa ao usuário para aguardar enquanto carrrega as informações
 - Layout responsivo com base no Figma
 
+## Visualize o site aqui
+
+- [Link:](https://github-profile-ten-lac.vercel.app)
+
 ## 📦 Instalação
 
 ### Clonar o repositório
