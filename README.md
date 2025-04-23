@@ -22,7 +22,7 @@ Aplicação web feita com React + Vite para buscar e exibir perfis públicos do 
 
 ## Visualize o site aqui
 
-- [Link:](https://github-profile-ten-lac.vercel.app)
+- [Link para github-profile](https://github-profile-ten-lac.vercel.app)
 
 ## 📦 Instalação
 
